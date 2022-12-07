@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "3dxchat",
+			"description": "CDN for 3DxChat",
+			"domain_files": ["3dxchat.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
